@@ -1,4 +1,3 @@
-
 # Hi, I'm Sadiq 👋
 
 ### Computer Engineering Student | Aspiring AI & Software Engineer
