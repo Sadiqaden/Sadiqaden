@@ -1,20 +1,45 @@
-# Hi, I’m Sadiq Aden 👋
 
-I’m a student developer at OsloMet, building useful web apps and learning software engineering through hands-on projects.
+# Hi, I'm Sadiq 👋
 
-### About me
+### Computer Engineering Student | Aspiring AI & Software Engineer
 
-- Interested in thoughtful, privacy-conscious software and clear user experiences.
-- Currently learning across web development, databases, and software design.
+🎓 Studying Computer Engineering at **OsloMet** in Oslo, Norway.
 
-### Featured project
+💻 Interested in software engineering, AI Engineering, LLM applications, and cloud technologies.
 
-**[Mailmap](https://github.com/Sadiqaden/Mailmap)** — a privacy-conscious newsletter manager for Gmail and Outlook.
+🚀 I enjoy building practical applications, solving technical problems, and learning how modern software systems work.
 
-- Finds newsletter senders from email headers and organizes them in a searchable dashboard.
-- Runs in the browser with no Mailmap server, database, or analytics.
-- [Try the live demo](https://fastidious-longma-21976e.netlify.app/demo) with synthetic data and no sign-in.
+## 🚀 Featured Project
 
-### Tools I use
+### 📬 [MailMap – Newsletter Manager](https://github.com/Sadiqaden/Mailmap)
 
-TypeScript · React · Java · SQL · Git · Docker
+A web application for discovering and managing email newsletters.
+
+**Technologies:** React, TypeScript, Gmail API, OAuth 2.0
+
+[View the project](https://github.com/Sadiqaden/Mailmap)
+
+## 🛠️ Languages & Technologies
+
+**Programming:** Python · Java · TypeScript · JavaScript · SQL
+
+**Frontend:** React · HTML · CSS
+
+**Development:** Git · GitHub · REST APIs · OAuth 2.0
+
+## 🧠 Currently Exploring
+
+- AI Engineering and LLM-powered applications
+- AI agents and automation
+- Microsoft Azure and cloud technologies
+- Backend development and software architecture
+
+## 🎯 My Goals
+
+- Build and deploy practical AI applications
+- Develop my skills in cloud and AI engineering
+- Gain professional software development experience
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/sadiq-aden-16b27736b/) | [GitHub](https://github.com/Sadiqaden)
