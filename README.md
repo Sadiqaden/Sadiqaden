@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Sadiq Aden 👋
 
-<!--
-**Sadiqaden/Sadiqaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer at OsloMet, building useful web apps and learning software engineering through hands-on projects.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in thoughtful, privacy-conscious software and clear user experiences.
+- Currently learning across web development, databases, and software design.
+
+### Featured project
+
+**[Mailmap](https://github.com/Sadiqaden/Mailmap)** — a privacy-conscious newsletter manager for Gmail and Outlook.
+
+- Finds newsletter senders from email headers and organizes them in a searchable dashboard.
+- Runs in the browser with no Mailmap server, database, or analytics.
+- [Try the live demo](https://fastidious-longma-21976e.netlify.app/demo) with synthetic data and no sign-in.
+
+### Tools I use
+
+TypeScript · React · Java · SQL · Git · Docker
