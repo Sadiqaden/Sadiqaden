@@ -20,11 +20,11 @@ A web application for discovering and managing email newsletters.
 
 ## 🛠️ Languages & Technologies
 
-**Programming:** Python · Java · TypeScript · JavaScript · SQL
+<h3>🛠️ Languages and Tools</h3>
 
-**Frontend:** React · HTML · CSS
-
-**Development:** Git · GitHub · REST APIs · OAuth 2.0
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,html,css,mysql,git,github,vscode,idea&perline=6" alt="Languages and development tools" />
+</p>
 
 ## 🧠 Currently Exploring
 
@@ -39,6 +39,8 @@ A web application for discovering and managing email newsletters.
 - Develop my skills in cloud and AI engineering
 - Gain professional software development experience
 
-## 🤝 Connect
+<h3>🤝 Connect with me</h3>
 
-[LinkedIn](https://www.linkedin.com/in/sadiq-aden-16b27736b/) | [GitHub](https://github.com/Sadiqaden)
+<a href="https://www.linkedin.com/in/sadiq-aden-16b27736b/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
+</a>
