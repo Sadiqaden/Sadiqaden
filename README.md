@@ -8,7 +8,7 @@
 
 🚀 I enjoy building practical applications, solving technical problems, and learning how modern software systems work.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📬 [MailMap – Newsletter Manager](https://github.com/Sadiqaden/Mailmap)
 
@@ -17,6 +17,15 @@ A web application for discovering and managing email newsletters.
 **Technologies:** React, TypeScript, Gmail API, OAuth 2.0
 
 [View the project](https://github.com/Sadiqaden/Mailmap)
+
+### 🧠 [DocuMind AI – AI Document Research Assistant](https://github.com/Sadiqaden/documind-ai)
+
+An AI-powered document research assistant featuring document retrieval, research agents, and page-level source citations.
+
+**Technologies:** Python, FastAPI, React, TypeScript, RAG, Claude API, Docker
+
+[View the project](https://github.com/Sadiqaden/documind-ai) | [Live demo](https://documind-ai-kijj.onrender.com)
+
 
 ## 🛠️ Languages & Technologies
 
